@@ -1,0 +1,56 @@
+justify,证明...正当
+potential,潜力/潜在的
+fund,基金/资助
+policy,政策
+finance,资助
+financial,财政的
+capital,首都/资金
+industrail,工业的
+electronic,电子的
+exist,存在
+digital,数字化的
+investment,投资
+corporation,公司
+infrastructure,基础设施
+poverty,贫穷
+pattern,模式
+overseas,在海外
+case,案例
+immigrant,移民（迁入）		emigrant,移民（迁出）
+positive,积极的
+wave,浪潮
+narrow,缩小
+lecture,演讲	+ about/on
+visible,明显的
+division,划分	 divide（v）
+loom,逼近
+economic,经济的
+decade,十年
+billion,十亿 trillion万亿
+respect,方面
+invest ,投资
+powerful,强大的
+optimistic,乐观的
+enormous,巨大的
+foundation,基础
+combat,与...做斗争
+colony,殖民地
+defeat,(v)战胜(n)失败
+harbor,港口
+invasion,侵犯
+
+词组
+with respect to...关于...
+get over克服
+take advantage	of...利用...
+for the matter就此而言
+lie down认输
+guard against提防
+attach important to...重视...
+wipe out消除
+
+超纲词
+electronically	电子地
+technological	技术的
+impoverish	使贫穷
+sovereignty		主权

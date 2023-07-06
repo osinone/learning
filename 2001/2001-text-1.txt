@@ -1,0 +1,55 @@
+professional,专家
+publication,出版
+amateur,业余爱好者
+academic,学术的
+psychology,心理学
+distinction,区别
+geology,地质学
+sociology,社会学
+infer,推断
+demonstrate,证明
+compete,竞赛
+expansion,扩展
+hardship,困难
+area,区域
+chemistry,化学
+communication,交流
+process,过程
+knowledge,知识
+physics,物理学
+delay,延迟
+journal,期刊
+growth,增长
+constitute,组成
+definition,定义
+response,回应
+affect,影响
+consequence,结果
+worthwhile,有价值的
+incorporate,包含
+whereas,然而
+basis,基础
+requirement,必要条件
+imply,暗示
+obvious,明显的
+handle,处理
+integrate,（使）加入、融入
+exception,例外
+nevertheless,不过
+split,分裂
+comparison,比较
+
+词组
+tend to	倾向于
+scientific community	科学界
+a series professional   一系列的。。。
+subject matter	主要内容
+in terms of 在。。。方面
+reflect on...	导致
+
+超纲词
+discrimination	歧视
+professionalisation	专业化
+consequent	随之而来的
+connotation	内涵、含义
+development	发展

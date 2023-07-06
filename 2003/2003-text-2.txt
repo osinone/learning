@@ -1,0 +1,55 @@
+triumph	重大成就
+cause	事业
+target	目标
+advocate	拥护者
+practitioner	实践者
+statesman	政治家
+theory	理论
+personality	名人
+argument	辩论
+assure	确信
+thereby	因此
+advance	进步
+setting	环境
+perplex	使困惑
+criticize	批评
+cruel	残酷的
+inevitable	不可避免的
+vicious	不道德，恶性的
+vaccine	疫苗
+epidemic	流行病
+cure 	治疗方法
+ignorance	无知
+anxiety	焦虑
+molecule	分子
+employ	使用
+strive	努力
+distribute	分发
+brochure	手册
+booth	摊位
+shot	一针
+hip	臀部
+bypass	搭桥手术，绕过
+operation	手术
+precious	宝贵的
+extinguish	熄灭
+connection	联系
+adopt	收养
+ultimate	最终的
+recruit	吸收，招募
+acquire	获得
+
+词组：
+call on 	呼吁
+street fair	街头集市
+make courageous	statements	大胆陈述
+animal rights	动物权利
+
+超纲词：
+misguided	被错误地引导的
+unacceptable	不可接受的
+wasteful	浪费的
+pointless	无意义的
+indifference	冷漠
+enthusiast	狂热爱好者
+humanist	人文主义者

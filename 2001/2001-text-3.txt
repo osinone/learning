@@ -1,0 +1,57 @@
+aim	目标
+origin	起源
+error	错误
+alien	陌生的
+background	背景
+annoy	使生气
+somewhat	有点儿
+despite	尽管
+superficial	肤浅的
+tendency	倾向
+gender	性别
+race	种族
+prejudice	偏见
+outlook	观点
+journalist	记者
+analysis	分析
+editor	编辑
+hire	雇佣
+elite	精英
+painful	令人痛苦的
+narrative	叙事的
+clash	冲突
+effort	努力
+employee	雇员		employer	雇者
+differ	有区别
+sponsor	举办
+explosive	爆炸性的
+symposium	研讨会
+define	给...下定义
+source	来源
+stock	股票
+mostly	主要地
+volunteer	志愿者
+church	礼拜仪式
+grammar	语法
+resident	居民
+metropolitan	大都市的
+maid	女仆
+bias	偏见+against	对...有偏见
+flee	逃跑
+
+词组：
+turn out to be	结果是
+in matters of	在...方面
+in the world	究竟（用于加强语气）
+at random	随机地
+put down roots in...	扎根于...
+
+超纲词：
+contradictory	矛盾的
+conventional	传统的
+journalism	新闻
+credibility	可靠性
+trustworthy	可信赖的
+disappointment	失望
+likeliness	可能性
+factual 事实的

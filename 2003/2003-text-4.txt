@@ -1,0 +1,48 @@
+optional    可选择的
+replace 更新
+beyond  超出
+procedure   手术
+routine 常规的，日常的
+normal  正常的
+resource    资源
+potential   潜力
+duty    义务，责任
+sustain 维持
+loss    丧失
+claim   声称
+disease 疾病
+perish  死亡（突然死亡）
+fatal   致命的
+ideal   理想的
+confident   自信的
+energetic   精力充沛的 energy
+finite  有限的  infinite    无限的
+mere    仅仅
+limit   限制
+reverse 颠倒，扭转
+reserve 自然保护区
+reasonable  合理的
+scholar 学者
+surgeon 外科医生
+governor    州长
+quest   追求
+pursuit 追求
+proof   证据
+conclude    推断，得出结论
+consent 同意
+cautious    小心的
+frustrate   使沮丧
+slight  轻微的
+contempt    蔑视
+enthusiastic    热情的
+extravagant   奢侈的
+confront    面临
+willing 愿意的
+
+超纲词：
+depression  抑郁    depress
+aging   老化    age
+disintegrate    解体    integrate
+unaffordable    负担不起的  afford
+reserved    内向的，保留的  reserve
+flexibly    灵活地  flexible
