@@ -1,69 +1,69 @@
-manicurist  ÃÀ¼×Ê¦
+manicurist  ç¾ç”²å¸ˆ
 file    
-polish  ²ÁÁÁ
-customer    ¹Ë¿Í
-suddenly    Í»È»µØ
-show up ³öÏÖ
-blame   ¹é¾ÌÓÚ
-indicator   Ö¸Ê¾Õß
-concerned   ¹Ø×¢µÄ
-downscale   ½µµÍµµ´Î
-suburban    ½¼ÇøµÄ
-instead of  ¶ø²»ÊÇ
-abandon Í£Ö¹
-admission   ³ĞÈÏ
-sign    ¼£Ïó
-slowdown    ·Å»º
-dealership  ¾­ÏúÉÌ
-outlet  ×¨Âôµê
-temper  µ÷ºÍ
-spending    ¿ªÏú
-retailer    ÁãÊÛÉÌ
-take in     ÊÕÈë
-revenue ÊÕÈë
-approach    ·½Ê½
-crucial ¹Ø¼üĞÔµÄ
-sound   À­Ïì¾¯±¨
-alarm   ¾¯±¨
-mildly  ÇáÎ¢µØ
-remain  ÈÔÈ»ÊÇ
-optimistic  ÀÖ¹ÛµÄ
-prospects   Ç°¾°
-modest  Ç«ĞéµÄ
-belt-tightening ½ôËõ¿ªÖ§
-in despair  ÔÚ¾øÍûÖĞ
-dreadful    ÁîÈË¿Ö¾åµÄ
-fortune ²Æ²ú
-steady  ÎÈ¶¨µÄ
-region  µØÇø
-range   Çø¼ä
-predominantly   Ö÷ÒªµØ
-bonus   ºìÀû
-broker  ¾­¼ÍÈË
-frenzied    ¿ñÈÈµÄ
-offer   ±¨¼Û
-real-estate ·¿µØ²úµÄ
-comfortable ÊæÊÊµÄ
-potential   Ç±ÔÚµÄ
-employer    ¹ÍÖ÷
-bubble  ÅİÄ­
-ingredient  ÒªËØ
-sustained   ³ÖĞøµÄ
-diner   ¾Í²ÍÕß
-upside  ÓĞÀûµÄÒ»Ãæ
-toast   Îª...¾Ù±­¾´¾Æ
+polish  æ“¦äº®
+customer    é¡¾å®¢
+suddenly    çªç„¶åœ°
+show up å‡ºç°
+blame   å½’å’äº
+indicator   æŒ‡ç¤ºè€…
+concerned   å…³æ³¨çš„
+downscale   é™ä½æ¡£æ¬¡
+suburban    éƒŠåŒºçš„
+instead of  è€Œä¸æ˜¯
+abandon åœæ­¢
+admission   æ‰¿è®¤
+sign    è¿¹è±¡
+slowdown    æ”¾ç¼“
+dealership  ç»é”€å•†
+outlet  ä¸“å–åº—
+temper  è°ƒå’Œ
+spending    å¼€é”€
+retailer    é›¶å”®å•†
+take in     æ”¶å…¥
+revenue æ”¶å…¥
+approach    æ–¹å¼
+crucial å…³é”®æ€§çš„
+sound   æ‹‰å“è­¦æŠ¥
+alarm   è­¦æŠ¥
+mildly  è½»å¾®åœ°
+remain  ä»ç„¶æ˜¯
+optimistic  ä¹è§‚çš„
+prospects   å‰æ™¯
+modest  è°¦è™šçš„
+belt-tightening ç´§ç¼©å¼€æ”¯
+in despair  åœ¨ç»æœ›ä¸­
+dreadful    ä»¤äººææƒ§çš„
+fortune è´¢äº§
+steady  ç¨³å®šçš„
+region  åœ°åŒº
+range   åŒºé—´
+predominantly   ä¸»è¦åœ°
+bonus   çº¢åˆ©
+broker  ç»çºªäºº
+frenzied    ç‹‚çƒ­çš„
+offer   æŠ¥ä»·
+real-estate æˆ¿åœ°äº§çš„
+comfortable èˆ’é€‚çš„
+potential   æ½œåœ¨çš„
+employer    é›‡ä¸»
+bubble  æ³¡æ²«
+ingredient  è¦ç´ 
+sustained   æŒç»­çš„
+diner   å°±é¤è€…
+upside  æœ‰åˆ©çš„ä¸€é¢
+toast   ä¸º...ä¸¾æ¯æ•¬é…’
 
-maintain    Î¬³Ö
-be engaged in   Ã¦ÓÚ
-grow out of sth Òò³¤´ó¶ø¸ÄµôÄ³Ï°¹ß
-desperate   ¾øÍûµÄ
-confused    À§»óµÄ
-carefree    ÎŞÓÇÎŞÂÇµÄ
-exchange    ½»Ò×
-venture ·çÏÕÏîÄ¿
-investment  Í¶×Ê
-certain Ä³ÖÖ
-recovery    ¸´ËÕ
-precede ÔÚ...Ö®Ç°·¢Éú
-on the horizon  ½«Òª·¢Éú
-remedy  ´¦Àí°ì·¨
+maintain    ç»´æŒ
+be engaged in   å¿™äº
+grow out of sth å› é•¿å¤§è€Œæ”¹æ‰æŸä¹ æƒ¯
+desperate   ç»æœ›çš„
+confused    å›°æƒ‘çš„
+carefree    æ— å¿§æ— è™‘çš„
+exchange    äº¤æ˜“
+venture é£é™©é¡¹ç›®
+investment  æŠ•èµ„
+certain æŸç§
+recovery    å¤è‹
+precede åœ¨...ä¹‹å‰å‘ç”Ÿ
+on the horizon  å°†è¦å‘ç”Ÿ
+remedy  å¤„ç†åŠæ³•
