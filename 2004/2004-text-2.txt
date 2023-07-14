@@ -7,7 +7,7 @@ continue    继续
 thrive  蓬勃发展
 unaware 未意识到的
 disadvantage    劣势
-refer to    指
+refer to    指的是
 surname 姓
 alphabet    字母表
 advantage   优势
@@ -20,7 +20,7 @@ suspiciously    无疑地
 a large number of   很多
 president   总统
 respectively    分别
-predecessor 前往
+predecessor 前辈
 including   包括
 striking    惊人的
 head    首脑
@@ -29,11 +29,11 @@ character   文字
 merely  只是
 coincidence 巧合
 dream up    凭空想出
-spare   空闲的
+spare   空闲的，备用的
 the rot 形势恶化
 set in  开始
 infant  幼儿
-pupil   学生
+pupil   学生（小学生）
 short-sighted   近视的
 rarely  很少
 pose    提出
