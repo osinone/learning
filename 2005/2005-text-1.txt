@@ -22,7 +22,7 @@ candidate   被认定适合者
 exchange    交易
 token   代币
 slice   薄片
-separate    对立的
+separate    分开的
 adjoining   毗邻的
 chamber 房间
 markedly    明显的
