@@ -1,0 +1,85 @@
+intelligence    智力
+wonder  想知道
+experiment  实验
+describe    描述
+average 普通的
+bulb    电灯泡
+option  选择
+upkeep  维护
+fuel    燃料
+starting line   起跑线
+depend on   依靠
+process 过程
+instead of  而不是
+instinct    天分
+species 物种
+apparently  显然
+adaptive    合适的
+wistful 沉思的
+leave...in the dust 把...远远抛在后面
+implicitly  含蓄地
+chance  机会
+run 进行
+small-scale 小型的
+operant conditioning    操作性条件反射
+patience    忍耐力
+faithfulness    忠诚
+memory  记忆
+location    地点
+decide  断定
+merely  仅仅
+aware   知道的
+inconclusive    非决定性的
+
+suppose 假设
+consider    仔细考虑
+observe 观察
+imagine 想象
+tend    往往
+happen  碰巧
+threaten    威胁
+stable  稳定的
+light   明亮的
+dim 暗淡的
+tendency    趋势
+inclination 趋势
+priority    优先权
+insist on   坚持
+sum up  总结
+turn out    原来是
+put forward 提出
+along   沿着
+incredible  极好的，不能相信的
+spontaneous 自然的
+inevitable  不可避免的
+gradual 逐渐的
+fight   斗争
+doubt   怀疑
+invisible   看不见的
+limited 有限的
+indefinite  无期限的
+forward 向前
+afterward   以后
+backward    向后
+feature 特征
+cost    代价
+deliver 传递
+perform 执行
+by chance   偶然
+in contrast 相反
+as usual    像往常一样
+for instance    例如
+unless  除非
+lest    以免
+moderate    缓和
+overcome    克服
+determine   测定
+above all   最重要的是
+after all   毕竟
+otherwise   否则
+fundamental 根本的
+comprehensive   综合的
+equivalent  相同的，等效的
+hostile 敌对的
+by accident 偶然
+in time 迟早
