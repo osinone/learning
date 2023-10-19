@@ -85,5 +85,7 @@ prevention  防止
 manipulation    操纵
 justification   正当理由
 cope with sth   处理某事
+adapt to... 适应...
+call for sth    呼吁某事
 chunk   厚块
 chip    芯片
